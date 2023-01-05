@@ -1,1 +1,1 @@
-# -Text-Embedding-using-a-finance-based-lexicon
+# Text-Embedding-using-a-finance-based-lexicon
